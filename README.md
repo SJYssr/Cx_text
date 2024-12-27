@@ -1,7 +1,7 @@
 
 此脚本用于使用户可以在学习通禁止用户粘贴时，自动输入用户指定的文本。
 
-release中有已经打包完成的可直接使用
+[release](https://github.com/SJYssr/Cx_text/releases/tag/V1.0.0)中有已经打包完成的可直接使用
 
 exchange_logo文件夹作用与tk的图标打包后无法生成的问题
 
